@@ -192,3 +192,5 @@ System.out.println("Body: " + response.body());
 - **Simple to Use**: Easy-to-use API for making HTTP requests and handling responses, including flexible body handlers for different types of data.
 
 This new client makes it easier to perform network communication, especially in applications requiring advanced features like HTTP/2 and non-blocking requests.
+
+Content: [How to call a Java REST API using JDK Http Client](https://www.youtube.com/watch?v=MAw5Ku1OVFA)
